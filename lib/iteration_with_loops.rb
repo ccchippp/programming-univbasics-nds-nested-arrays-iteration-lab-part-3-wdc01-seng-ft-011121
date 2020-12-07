@@ -13,4 +13,5 @@ def join_nested_strings(src)
     end
     row_index += 1
   end
+  return new_array
 end
